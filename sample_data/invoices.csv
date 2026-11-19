@@ -1,0 +1,16 @@
+invoice_number,exporter_name,buyer_name,buyer_country,invoice_date,due_date,currency,invoice_amount,description,payment_terms
+INV-1010,Kaveri Textiles Pvt Ltd,Northwind Imports LLC,USA,2026-09-30,2026-10-30,USD,12500.00,"Cotton bed linen sets, 1 x 40ft container",Net 30
+INV-1011,Sahyadri Spices & Foods Pvt Ltd,Alpenrose Handels GmbH,Germany,2026-10-05,2026-11-04,EUR,8400.00,"Turmeric and cumin, 1 x 20ft container",Net 30
+INV-1012,Kaveri Textiles Pvt Ltd,Thames Gate Wholesale Ltd,United Kingdom,2026-10-15,2026-11-14,GBP,6750.00,"Handloom cotton throws, 320 cartons",Net 30
+INV-1013,Meridian Engineering Works Pvt Ltd,Al Noor General Trading LLC,United Arab Emirates,2026-10-20,2026-11-04,AED,45000.00,"CNC machined auto components, 12 pallets",Net 15
+INV-1014,Sahyadri Spices & Foods Pvt Ltd,Lumière Distribution SAS,France,2026-09-10,2026-10-25,EUR,15200.00,"Basmati rice 25kg bags, 1 x 20ft container",Net 45
+INV-1015,Kaveri Textiles Pvt Ltd,Caledonia Retail Group Ltd,United Kingdom,2026-08-31,2026-09-30,GBP,9300.00,"Organic cotton towels, 410 cartons",Net 30
+INV-1016,Sahyadri Spices & Foods Pvt Ltd,Gulf Crest Foods FZE,United Arab Emirates,2026-09-25,2026-10-25,AED,62500.00,"Assorted spice blends, 1 x 40ft container",Net 30
+INV-1017,Meridian Engineering Works Pvt Ltd,Northwind Imports LLC,USA,2026-10-25,2026-12-24,USD,22000.00,"Precision valve assemblies, 8 pallets",Net 60
+INV-1018,Kaveri Textiles Pvt Ltd,Alpenrose Handels GmbH,Germany,2026-10-30,2026-11-29,EUR,11000.00,"Linen table covers, 260 cartons",Net 30
+INV-1019,Sahyadri Spices & Foods Pvt Ltd,Harbor & Pine Trading Co,USA,2026-11-04,2026-12-04,USD,7800.00,"Dried red chilli, 1 x 20ft container",Net 30
+INV-1020,Meridian Engineering Works Pvt Ltd,Al Noor General Trading LLC,United Arab Emirates,2026-08-11,2026-09-10,AED,28000.00,"Forged flange fittings, 6 pallets",Net 30
+INV-1021,Kaveri Textiles Pvt Ltd,Thames Gate Wholesale Ltd,United Kingdom,2026-11-09,2026-12-09,GBP,5200.00,"Printed cotton scarves, 180 cartons",Net 30
+INV-1022,Sahyadri Spices & Foods Pvt Ltd,Lumière Distribution SAS,France,2026-11-11,2026-12-11,EUR,9900.00,"Cardamom and black pepper, 600 kg",Net 30
+INV-1023,Meridian Engineering Works Pvt Ltd,Northwind Imports LLC,USA,2026-11-14,2026-12-14,USD,3400.00,Machine tool spare parts (quote stage),Net 30
+INV-1024,Meridian Engineering Works Pvt Ltd,Harbor & Pine Trading Co,USA,2026-10-20,2026-12-04,USD,10000.00,"Hydraulic pump housings, 10 pallets",Net 45
